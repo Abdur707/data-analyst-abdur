@@ -19,6 +19,8 @@ Contains temperature and turbidity data for 2025.
 AWS Glue Data Brew used for data cleaning, handling missing values, and normalizing schemas.
 AWS Glue Crawler used to catalog and structure data in a cloud database.
 
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/2bbbc623c5e567584fedb53022fd895c70029394/image.png)
+
 2. Descriptive Statistics:
 Summary of turbidity values: minimum, average, and trends relative to temperature.
 Identifying patterns in water quality through statistical measures.
@@ -36,6 +38,11 @@ The lowest recorded turbidity is 0.12 at 15.3°C.
 The highest average turbidity is 0.72 at 12.8°C, indicating temperature influence.
 A positive correlation between turbidity and temperature up to 14.5°C, after which it reverses.
 
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/77286b6169db89d6fcacde2aa4b823ca609627c4/image.png)
+
+
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/2a4745e22a64a1368ff0fb359524af6553d5af32/image.png)
+
 6. Recommendations:
 Monitor water quality closely in areas with high turbidity at lower temperatures.
 Adjust filtration and treatment processes based on seasonal temperature shifts.
@@ -44,6 +51,9 @@ Improve data collection processes to minimize missing values and improve predict
 **Tools and Techniques:**
 AWS Services: S3, Glue Data Brew, Glue Crawler, ETL pipelines.
 Data Processing: ETL pipeline with AWS Glue, Data Cleaning with Data Brew.
+
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/60dcadc00f37ef62dd37a80ad8e8de7f53961f05/image.png)
+
 Data Storage: Cloud-based AWS databases, S3 buckets.
 Visualization: Graphical representation of trends using data visualization tools.
 
