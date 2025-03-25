@@ -13,21 +13,29 @@ Contains temperature and turbidity data for 2025.
 
 **Methodology**
 1. Data Collection and Preparation: Data stored in Amazon S3 buckets: raw (cov-raw-abd), transformed (cov-trf-abd), and curated (cov-cur-abd).
+
+![image alt](![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/7c50a98a24ced2605a153ea4b2c44f5cd143b991/Screenshot%202025-03-05%20211831.png))
+
 AWS Glue Data Brew used for data cleaning, handling missing values, and normalizing schemas.
 AWS Glue Crawler used to catalog and structure data in a cloud database.
+
 2. Descriptive Statistics:
 Summary of turbidity values: minimum, average, and trends relative to temperature.
 Identifying patterns in water quality through statistical measures.
+
 3. Data Visualization:
 Graphs illustrating temperature vs. turbidity relationships.
 Trend lines showing changes in turbidity levels based on temperature fluctuations.
+
 4. Customer Segmentation:
 Segmentation based on permit types and water system classifications.
 Identifying key risk areas in water quality management.
+
 5. Insights and Findings:
 The lowest recorded turbidity is 0.12 at 15.3°C.
 The highest average turbidity is 0.72 at 12.8°C, indicating temperature influence.
 A positive correlation between turbidity and temperature up to 14.5°C, after which it reverses.
+
 6. Recommendations:
 Monitor water quality closely in areas with high turbidity at lower temperatures.
 Adjust filtration and treatment processes based on seasonal temperature shifts.
