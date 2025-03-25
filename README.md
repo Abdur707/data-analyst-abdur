@@ -1,4 +1,4 @@
-# Projects (data-analyst-abdur)
+# Projects
 **Phase 1**
 
 **Project Title:** Descriptive Analysis of water systems — water quality reports in the City of Vancouver
