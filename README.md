@@ -5,6 +5,8 @@
 
 **Objective**: To analyze water quality in Vancouver by examining turbidity levels relative to temperature, identifying key trends, and providing actionable insights for system optimization.
 
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/7c50a98a24ced2605a153ea4b2c44f5cd143b991/Screenshot%202025-03-05%20211831.png)
+
 **Dataset:** Data from the City of Vancouver on water systems, operating permits, and water quality reports.
 Includes 524 instances with details on address, mechanical system type, operating permit number, permit status, and system report date.
 Contains temperature and turbidity data for 2025.
