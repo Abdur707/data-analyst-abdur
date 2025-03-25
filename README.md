@@ -1,11 +1,9 @@
 # data-analyst-abdur
 **Phase 1**
 
-**Project Title:** Descriptive Analysis of Water Systems in the City of Vancouver
+**Project Title:** Descriptive Analysis of water systems — water quality reports in the City of Vancouver
 
 **Objective**: To analyze water quality in Vancouver by examining turbidity levels relative to temperature, identifying key trends, and providing actionable insights for system optimization.
-
-![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/7c50a98a24ced2605a153ea4b2c44f5cd143b991/Screenshot%202025-03-05%20211831.png)
 
 **Dataset:** Data from the City of Vancouver on water systems, operating permits, and water quality reports.
 Includes 524 instances with details on address, mechanical system type, operating permit number, permit status, and system report date.
@@ -28,6 +26,8 @@ Identifying patterns in water quality through statistical measures.
 3. Data Visualization:
 Graphs illustrating temperature vs. turbidity relationships.
 Trend lines showing changes in turbidity levels based on temperature fluctuations.
+
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/7c50a98a24ced2605a153ea4b2c44f5cd143b991/Screenshot%202025-03-05%20211831.png)
 
 4. Customer Segmentation:
 Segmentation based on permit types and water system classifications.
@@ -79,11 +79,19 @@ Recommendations Document for improving water quality monitoring.
 
 Water System Data: Information on mechanical systems, including active and inactive counts for different system types.
 
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/55301a6228ee6e2ac5a982e3c8c7fe8b56ade87f/image.png)
+
 Bacterial Contamination Data: Records identifying instances of Legionella pneumophila in various mechanical systems and their locations.
+
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/433d2a75108ce4df7bd7a8433269e8574a7443fd/Virus.png)
 
 Security Implementation Data: Logs related to encryption, replication, and governance measures applied to protect data integrity.
 
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/11b994144663391a6f6d76273eb16d5ba6740baf/KMS.png)
+
 Governance and Monitoring Data: Compliance checks, data completeness assessments, and AWS monitoring logs to track changes and anomalies.
+
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/ace68463139937613acedb6e4511a200702426c2/Bucket%20Versioning.png)
 
 **Methodology:**
 Data Collection and Preparation:
