@@ -14,7 +14,7 @@ Contains temperature and turbidity data for 2025.
 **Methodology**
 1. Data Collection and Preparation: Data stored in Amazon S3 buckets: raw (cov-raw-abd), transformed (cov-trf-abd), and curated (cov-cur-abd).
 
-![image alt](![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/7c50a98a24ced2605a153ea4b2c44f5cd143b991/Screenshot%202025-03-05%20211831.png))
+![image alt](https://github.com/Abdur707/data-analyst-abdur/blob/1fb8264d2d09f557e9ea71e7b415b561e6326445/image.png)
 
 AWS Glue Data Brew used for data cleaning, handling missing values, and normalizing schemas.
 AWS Glue Crawler used to catalog and structure data in a cloud database.
